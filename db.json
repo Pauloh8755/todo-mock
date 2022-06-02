@@ -1,0 +1,348 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Miss Olga Fritsch",
+      "email": "Rupert_Lehner@hotmail.com"
+    },
+    { "id": 2, "name": "Winifred Wyman DVM", "email": "Rosina63@hotmail.com" },
+    { "id": 3, "name": "Raymond Walsh", "email": "Enoch0@gmail.com" },
+    { "id": 4, "name": "Jimmy Thiel", "email": "Richmond.Bogan42@gmail.com" },
+    { "id": 5, "name": "Cedric Schaden", "email": "Alberto_Yundt@hotmail.com" },
+    { "id": 6, "name": "Carol Kirlin", "email": "Alysson_Wiegand98@gmail.com" },
+    { "id": 7, "name": "Nicolas McKenzie", "email": "Russ55@yahoo.com" },
+    { "id": 8, "name": "Veronica Kessler", "email": "Malcolm_Ebert@yahoo.com" },
+    { "id": 9, "name": "Beverly Little", "email": "Otto33@hotmail.com" },
+    { "id": 10, "name": "Homer Renner", "email": "Mafalda2@hotmail.com" },
+    {
+      "id": 11,
+      "name": "Joyce Parker Jr.",
+      "email": "Gilbert.Beer94@yahoo.com"
+    },
+    { "id": 12, "name": "Yvonne Walsh", "email": "Herminio54@yahoo.com" },
+    { "id": 13, "name": "Ms. Owen Ullrich", "email": "Ena_Carter35@yahoo.com" },
+    {
+      "id": 14,
+      "name": "Krista Gutmann",
+      "email": "Jedediah.Rippin@hotmail.com"
+    },
+    { "id": 15, "name": "Kellie Flatley", "email": "Shayne_Casper@yahoo.com" }
+  ],
+  "todos": [
+    {
+      "id": "1ed9285f-0c95-453c-b5c0-f751e4483243",
+      "description": "program back-end circuit",
+      "dueDate": "2023-04-01T14:26:44.637Z",
+      "isCompleted": false,
+      "userId": 1
+    },
+    {
+      "id": "d4542d86-5b79-40f5-8f66-61308f02e38d",
+      "description": "back up neural matrix",
+      "dueDate": "2022-12-27T11:24:25.459Z",
+      "isCompleted": true,
+      "userId": 1
+    },
+    {
+      "id": "813f5e07-166f-4b3b-9bd2-901aa662990b",
+      "description": "synthesize haptic capacitor",
+      "dueDate": "2022-06-19T17:53:43.574Z",
+      "isCompleted": false,
+      "userId": 1
+    },
+    {
+      "id": "8087de8d-f13c-4f92-b092-9b36a1a0fbe1",
+      "description": "parse haptic transmitter",
+      "dueDate": "2022-06-21T03:00:23.656Z",
+      "isCompleted": true,
+      "userId": 2
+    },
+    {
+      "id": "d7aa5b43-0061-4504-9f2d-dbd76e68698a",
+      "description": "hack redundant protocol",
+      "dueDate": "2022-06-07T09:53:21.652Z",
+      "isCompleted": true,
+      "userId": 2
+    },
+    {
+      "id": "28d6101f-c162-4bf1-9f96-fa1ff61b2be5",
+      "description": "generate bluetooth application",
+      "dueDate": "2022-09-24T03:10:06.355Z",
+      "isCompleted": true,
+      "userId": 2
+    },
+    {
+      "id": "f1178787-887b-46fa-ba92-caaeb80cf6bc",
+      "description": "parse bluetooth protocol",
+      "dueDate": "2022-07-05T03:45:35.905Z",
+      "isCompleted": true,
+      "userId": 3
+    },
+    {
+      "id": "ea6f3f51-af6c-4efd-b8dc-06bfcc619401",
+      "description": "compress optical array",
+      "dueDate": "2023-01-29T01:58:02.067Z",
+      "isCompleted": false,
+      "userId": 3
+    },
+    {
+      "id": "42f85ace-fc83-46e0-80d9-c8b056ad3f1e",
+      "description": "copy solid state interface",
+      "dueDate": "2023-03-23T11:28:15.661Z",
+      "isCompleted": true,
+      "userId": 3
+    },
+    {
+      "id": "73e494c0-dc55-48b0-b534-491a0169d7f6",
+      "description": "calculate digital transmitter",
+      "dueDate": "2022-10-22T00:09:13.781Z",
+      "isCompleted": true,
+      "userId": 4
+    },
+    {
+      "id": "91c1fe87-7d7b-45b8-b3a8-e8b8b334574e",
+      "description": "transmit optical bandwidth",
+      "dueDate": "2022-11-02T05:50:30.590Z",
+      "isCompleted": false,
+      "userId": 4
+    },
+    {
+      "id": "b1d775e9-e362-4647-a0b7-26995a0f87cd",
+      "description": "navigate back-end transmitter",
+      "dueDate": "2023-02-27T19:33:52.552Z",
+      "isCompleted": false,
+      "userId": 4
+    },
+    {
+      "id": "701d598b-c830-434b-a9fd-3851fecf451c",
+      "description": "quantify auxiliary driver",
+      "dueDate": "2022-06-09T02:54:14.010Z",
+      "isCompleted": false,
+      "userId": 5
+    },
+    {
+      "id": "82832b04-e950-4246-bbc7-f2c88b475993",
+      "description": "compress bluetooth program",
+      "dueDate": "2022-09-27T08:48:41.112Z",
+      "isCompleted": false,
+      "userId": 5
+    },
+    {
+      "id": "6af38639-af89-4421-820f-57bee8b86321",
+      "description": "input open-source bus",
+      "dueDate": "2023-02-12T13:41:24.959Z",
+      "isCompleted": false,
+      "userId": 5
+    },
+    {
+      "id": "37fa3c7e-6997-45d5-8f2d-8790610d0ee2",
+      "description": "program auxiliary capacitor",
+      "dueDate": "2022-10-23T07:25:50.644Z",
+      "isCompleted": true,
+      "userId": 6
+    },
+    {
+      "id": "b39ee448-0191-4179-9bdf-531eb533a82a",
+      "description": "reboot mobile system",
+      "dueDate": "2022-06-29T12:13:13.779Z",
+      "isCompleted": true,
+      "userId": 6
+    },
+    {
+      "id": "087964a7-ce0e-4797-92a7-c8f8bc0a693a",
+      "description": "connect virtual array",
+      "dueDate": "2022-10-09T23:43:09.368Z",
+      "isCompleted": true,
+      "userId": 6
+    },
+    {
+      "id": "22b2be32-ce07-432e-8508-42a4d012e175",
+      "description": "compress auxiliary panel",
+      "dueDate": "2023-04-02T22:14:29.439Z",
+      "isCompleted": true,
+      "userId": 7
+    },
+    {
+      "id": "cebdd245-cdb1-4c3c-aae1-5aea2f2e03d5",
+      "description": "back up virtual feed",
+      "dueDate": "2023-05-28T23:32:42.814Z",
+      "isCompleted": false,
+      "userId": 7
+    },
+    {
+      "id": "a5327765-a3bb-4328-b542-4f76d0ac7c7c",
+      "description": "input back-end protocol",
+      "dueDate": "2023-03-09T10:49:54.905Z",
+      "isCompleted": true,
+      "userId": 7
+    },
+    {
+      "id": "b7df61a8-6dcf-494a-a138-c674671f62a4",
+      "description": "input virtual driver",
+      "dueDate": "2023-02-17T13:32:54.739Z",
+      "isCompleted": false,
+      "userId": 8
+    },
+    {
+      "id": "cd87df12-277b-453e-9911-7d588d646eb8",
+      "description": "override optical transmitter",
+      "dueDate": "2023-01-06T06:11:33.598Z",
+      "isCompleted": false,
+      "userId": 8
+    },
+    {
+      "id": "35cf1899-b130-44d1-8c75-aa1411aa91e5",
+      "description": "back up multi-byte bus",
+      "dueDate": "2023-01-28T08:54:14.366Z",
+      "isCompleted": false,
+      "userId": 8
+    },
+    {
+      "id": "8ca6aeab-df14-4529-86b0-6ddce59bd12c",
+      "description": "input solid state matrix",
+      "dueDate": "2023-02-24T10:52:05.161Z",
+      "isCompleted": false,
+      "userId": 9
+    },
+    {
+      "id": "cc5bfbd7-1117-4b37-8306-cf0ddfc6b7ff",
+      "description": "transmit wireless sensor",
+      "dueDate": "2023-05-13T17:33:24.194Z",
+      "isCompleted": false,
+      "userId": 9
+    },
+    {
+      "id": "2e21df0c-642d-4ee4-b7f9-22302b75741d",
+      "description": "back up online alarm",
+      "dueDate": "2023-01-01T06:54:00.965Z",
+      "isCompleted": true,
+      "userId": 9
+    },
+    {
+      "id": "25e4a294-22c9-40a4-8a94-043edafe37b2",
+      "description": "connect wireless interface",
+      "dueDate": "2023-01-01T01:54:08.699Z",
+      "isCompleted": true,
+      "userId": 10
+    },
+    {
+      "id": "54af5dc1-4608-4786-8d8f-b7b4f10b565e",
+      "description": "connect neural array",
+      "dueDate": "2023-04-12T17:26:10.799Z",
+      "isCompleted": false,
+      "userId": 10
+    },
+    {
+      "id": "ea6fb328-3b86-4f7e-bb34-99f1b1732054",
+      "description": "navigate solid state monitor",
+      "dueDate": "2022-09-12T00:55:33.020Z",
+      "isCompleted": false,
+      "userId": 10
+    },
+    {
+      "id": "87a658d1-c08a-429b-971b-09e942d53c87",
+      "description": "program redundant program",
+      "dueDate": "2023-03-05T21:35:13.516Z",
+      "isCompleted": false,
+      "userId": 11
+    },
+    {
+      "id": "83db4d3d-437b-4f08-a350-aedb8721c416",
+      "description": "override open-source feed",
+      "dueDate": "2022-06-04T23:28:57.279Z",
+      "isCompleted": false,
+      "userId": 11
+    },
+    {
+      "id": "3e01c122-20a6-47c3-b604-a051884024ad",
+      "description": "copy primary driver",
+      "dueDate": "2023-02-04T11:29:52.578Z",
+      "isCompleted": true,
+      "userId": 11
+    },
+    {
+      "id": "1dd9008e-95f4-43ab-83d2-10341c891fde",
+      "description": "synthesize optical protocol",
+      "dueDate": "2023-05-10T12:43:52.199Z",
+      "isCompleted": true,
+      "userId": 12
+    },
+    {
+      "id": "4c7bdc27-242f-4233-b38b-acdef1b45338",
+      "description": "hack optical circuit",
+      "dueDate": "2022-08-27T21:27:18.009Z",
+      "isCompleted": true,
+      "userId": 12
+    },
+    {
+      "id": "5ed91959-ab77-4dcc-8226-5380eff1f7a5",
+      "description": "connect virtual application",
+      "dueDate": "2022-07-21T17:46:18.957Z",
+      "isCompleted": true,
+      "userId": 12
+    },
+    {
+      "id": "fc8fa67b-22a6-4f80-99b4-67406587ee62",
+      "description": "generate virtual panel",
+      "dueDate": "2022-09-30T17:20:12.378Z",
+      "isCompleted": false,
+      "userId": 13
+    },
+    {
+      "id": "5955ea09-f252-48ea-b8c0-f6232d393394",
+      "description": "back up wireless port",
+      "dueDate": "2022-11-29T14:34:58.716Z",
+      "isCompleted": true,
+      "userId": 13
+    },
+    {
+      "id": "26e3d323-df22-4fe2-ba1a-15917ac989fa",
+      "description": "reboot virtual card",
+      "dueDate": "2023-01-29T04:03:25.831Z",
+      "isCompleted": true,
+      "userId": 13
+    },
+    {
+      "id": "9f09981f-bc90-404f-b831-2262910e0300",
+      "description": "reboot wireless alarm",
+      "dueDate": "2023-05-15T21:26:53.464Z",
+      "isCompleted": false,
+      "userId": 14
+    },
+    {
+      "id": "9cfc66ac-b3eb-456d-ac6b-dd8d9e93770f",
+      "description": "reboot primary driver",
+      "dueDate": "2023-02-13T17:57:46.149Z",
+      "isCompleted": true,
+      "userId": 14
+    },
+    {
+      "id": "805d4169-59bd-4a55-b147-b2b291077c64",
+      "description": "input cross-platform hard drive",
+      "dueDate": "2023-01-03T14:30:51.625Z",
+      "isCompleted": true,
+      "userId": 14
+    },
+    {
+      "id": "82abcb5b-c631-4d6a-8602-910ecabea658",
+      "description": "program bluetooth circuit",
+      "dueDate": "2023-01-07T18:48:13.506Z",
+      "isCompleted": true,
+      "userId": 15
+    },
+    {
+      "id": "beadaebf-a7fd-40b3-8445-f58f3358f424",
+      "description": "index online port",
+      "dueDate": "2022-12-19T05:49:49.938Z",
+      "isCompleted": true,
+      "userId": 15
+    },
+    {
+      "id": "82ed6a7e-e270-4144-8952-3039eb44e8fc",
+      "description": "hack digital card",
+      "dueDate": "2023-02-13T22:17:37.681Z",
+      "isCompleted": true,
+      "userId": 15
+    }
+  ]
+}
