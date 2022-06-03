@@ -18,8 +18,9 @@ const generateRandomTodos = (userList) => {
   let todoList = [];
 
   userList.map((user) => {
-    const todosAmount = Math.floor(Math.random * 10) + 1;
-    for (let i = 0; i < 3; i++) {
+    const todosAmount = Math.floor(Math.random() * 10 + 1);
+
+    for (let i = 0; i < todosAmount; i++) {
       const todo = {
         id: faker.datatype.uuid(),
         description: faker.git.commitMessage(),
@@ -30,7 +31,6 @@ const generateRandomTodos = (userList) => {
       todoList.push(todo);
     }
   });
-  console.log(todoList);
   return todoList;
 };
 
